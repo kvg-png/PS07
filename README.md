@@ -4,7 +4,8 @@ Hello World!
 ## About me
 
 👋 I’m Karen, and I’m from the NYC metro area studying in Northampton,
-MA! 💻 I’m a current sophomore pursuing a double major in Computer
+MA! 
+💻 I’m a current sophomore pursuing a double major in Computer
 Science + Statistical & Data Sciences
 
 ------------------------------------------------------------------------
