@@ -7,23 +7,16 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## About me
 
-I'm Karen, and I'm from the NYC metro area! I'm a current sophomore pursuing a double major in Computer Science + Statistical & Data Sciences @ Smith.
+👋 I'm Karen, and I'm from the NYC metro area studying in Northampton, MA! 
+💻 I'm a current sophomore pursuing a double major in Computer Science + Statistical & Data Sciences
 
-## Including Code
+***
 
-You can include R code in the document as follows:
+I'm currently interested in fullstack web development and 2022 internship opportunities. Feel free to connect with me on LinkedIn!
 
-```{r cars}
-summary(cars)
-```
+![Thank you!](https://media.giphy.com/media/GUeqj7Oabt59pGf33a/giphy.gif)
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
