@@ -8,7 +8,7 @@ Hello World!
 
 ------------------------------------------------------------------------
 
-I'm currently interning for GoDaddy as a software engineer. Feel free to connect with me on LinkedIn!
+I previously interned for GoDaddy as a software engineer, and am looking for post-graduate employment opportunities. Feel free to connect with me on LinkedIn!
 
 ![Thank
 you!](https://media.giphy.com/media/GUeqj7Oabt59pGf33a/giphy.gif)
