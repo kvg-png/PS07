@@ -4,7 +4,7 @@ Hello World!
 ## About me
 
 👋 I’m Karen, and I’m from the NYC metro area studying in Northampton, MA!  
-💻 I’m a senior majoring in Computer Science + minoring Statistical & Data Sciences
+💻 I’m majoring in Computer Science + minoring Statistical & Data Sciences
 
 ------------------------------------------------------------------------
 
